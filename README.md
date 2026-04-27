@@ -89,7 +89,7 @@ spotify-best-of-the-best/
 1. **Overview**: View dataset summary, column information, and sample data
 2. **Data Explorer**: Filter columns, adjust row display, and download filtered data
 3. **Visualizations**: Create various charts and plots for data exploration
-4. **Statistics**: View detailed statistical summaries for all columns
+4. **Interesting Findings**: Discover insights and patterns in the data
 
 ## 🛠️ Technologies Used
 
